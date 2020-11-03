@@ -20,9 +20,10 @@ DefaultContentLanguage = "en"                   # Theme i18n support
         lastUpdated = "Jan 02, 2006 15:04 MST"
         
     [params.sidebar]
-        enableEmoji = false
+        emoji = " "
         avatar = "img/photo.png"
         subtitle = "University of Melbourne Master of IT"
+        pre= "facebook"
         
     [params.article]
         math = false
@@ -60,6 +61,16 @@ DefaultContentLanguage = "en"                   # Theme i18n support
             src = ""
             
 [menu]
+    [[menu.main]]
+        identifier = "facebook"
+        url = "https://www.facebook.com/jingjin.li.507"
+        weight = -110
+        pre = "facebook"
+    [[menu.main]]
+        identifier = "instagram" 
+        url = "https://www.instagram.com/jingjinli1/"
+        weight = -110
+        pre = "instagram"
     [[menu.main]]
         identifier = "home"
         name = "Home"
