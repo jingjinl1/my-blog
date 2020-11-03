@@ -28,10 +28,10 @@
 
 a {
     text-decoration: none;
-    color: var(--accent-color);
+    color: hsl(30, 100%, 50%);
 
     &:hover {
-        color: var(--accent-color-darker);
+        color: hsl(30, 100%, 50%);
     }
 
     &.link {
@@ -51,9 +51,9 @@ a {
     display: block;
     font-size: 1.6rem;
     font-weight: bold;
-    color: var(--body-text-color);
+    color: hsl(30, 100%, 50%);
 
     a {
-        color: var(--body-text-color);
+        color:hsl(30, 100%, 50%);
     }
 }
