@@ -72,6 +72,11 @@ DefaultContentLanguage = "en"                   # Theme i18n support
         weight = -110
         pre = "instagram"
     [[menu.main]]
+        identifier = "linkin" 
+        url = "https://www.linkedin.com/in/jingjin-li-220094190/"
+        weight = -110
+        pre = "linkin"
+    [[menu.main]]
         identifier = "home"
         name = "Home"
         url = "/"
