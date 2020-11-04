@@ -62,21 +62,6 @@ DefaultContentLanguage = "en"                   # Theme i18n support
             
 [menu]
     [[menu.main]]
-        identifier = "facebook"
-        url = "https://www.facebook.com/jingjin.li.507"
-        weight = -110
-        pre = "facebook"
-    [[menu.main]]
-        identifier = "instagram" 
-        url = "https://www.instagram.com/jingjinli1/"
-        weight = -110
-        pre = "instagram"
-    [[menu.main]]
-        identifier = "linkin" 
-        url = "https://www.linkedin.com/in/jingjin-li-220094190/"
-        weight = -110
-        pre = "linkin"
-    [[menu.main]]
         identifier = "home"
         name = "Home"
         url = "/"
