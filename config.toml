@@ -20,11 +20,9 @@ DefaultContentLanguage = "en"                   # Theme i18n support
         lastUpdated = "Jan 02, 2006 15:04 MST"
         
     [params.sidebar]
-        emoji = " "
         avatar = "img/photo.png"
         subtitle = "University of Melbourne Master of IT"
-        pre= "facebook"
-        
+            
     [params.article]
         math = false
         [params.article.license]
@@ -59,7 +57,14 @@ DefaultContentLanguage = "en"                   # Theme i18n support
             enabled = false
             local = false
             src = ""
-            
+
+ [icon]
+    [[list.icon]]
+        identifier = "facebook"
+        url = "/"
+        weight = -110
+        pic = "facebook"
+
 [menu]
     [[menu.main]]
         identifier = "home"

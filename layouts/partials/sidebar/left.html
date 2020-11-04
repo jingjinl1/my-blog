@@ -17,12 +17,25 @@
                 {{ else }}
                     {{ errorf "Failed loading avatar from %q" . }}
                 {{ end }}
-
             </figure>
         {{ end }}
         <h1 class="site-name"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
         <h2 class="site-description">{{ .Site.Params.sidebar.subtitle }}</h2>
+
+        <a href="https://www.facebook.com/jingjin.li.507">
+            <img class="image" 
+                src="https://img.icons8.com/material-outlined/24/000000/facebook-new.png">
+        </a>
+        <a href="https://www.instagram.com/jingjinli1/">
+            <img class="image" 
+            src="https://img.icons8.com/fluent-systems-regular/24/000000/instagram-new.png">
+        </a>
+        <a href="https://www.linkedin.com/in/jingjin-li-220094190/">
+            <img class="image" 
+            src="https://img.icons8.com/fluent-systems-regular/24/000000/linkedin.png">
+        </a>
     </header>
+    
 
     <ol class="menu" id="main-menu">
         {{ $currentPage := . }}
