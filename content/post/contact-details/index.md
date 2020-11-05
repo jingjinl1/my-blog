@@ -50,7 +50,8 @@ tags:
 
 ## Skills
 
->Language : Chinese: Mother Tongue, English: Fluent   
+>Language :    
+>Chinese: Mother Tongue, English: Fluent   
 
 >MySQL, Database,Artificial Intelligence.      
 >Excel, Microsoft Office.      
