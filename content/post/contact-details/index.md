@@ -25,12 +25,12 @@ tags:
 
 ## Educational Experience
 
-Master:
+>Master:   
 > *[The University of Melbourne, Australia](https://www.unimelb.edu.au/)*   
 >Currently completing   
 >Master of Information Technology (Artificial Intelligence)   
 
-Bachelor:
+>Bachelor:   
 >*[Harbin Institute of Technology, China](http://en.hit.edu.cn/)*    
 >2015/09 – 2019/07   
 >Bachelor of Energy and Power Engineering  
@@ -44,6 +44,7 @@ Bachelor:
 >Online shopping website   2020/05   
 >I designed and implemented a shopping website using WordPress and was involved in the whole formal SDLC lifecycle. I then went on to present a report of the results and findings.   
 > *[JJFresh website](https://jingjinl1.wixsite.com/jjfresh-1)*  
+
 >3D Ceramic Printer Development   2017/04   
 >As a group leader in 3D laboratory of HIT, I implemented a 3D printing machine that can print ceramic products. I then went on to present a report of the results and findings including CFD simulation experiments and testing records.   
 
